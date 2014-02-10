@@ -1,0 +1,2 @@
+https://github.com/getnikola/nikola/tarball/master
+https://github.com/davisp/ghp-import/tarball/master
